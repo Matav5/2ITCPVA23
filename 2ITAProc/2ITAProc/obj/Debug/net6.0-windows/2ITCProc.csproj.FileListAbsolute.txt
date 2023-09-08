@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\bin\Debug\net6.0-windows\2ITCProc.exe
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\bin\Debug\net6.0-windows\2ITCProc.deps.json
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\bin\Debug\net6.0-windows\2ITCProc.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\bin\Debug\net6.0-windows\2ITCProc.dll
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\bin\Debug\net6.0-windows\2ITCProc.pdb
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\_2ITAProc.Form1.resources
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.dll
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\refint\2ITCProc.dll
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.pdb
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\2ITCProc.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITAProc\2ITAProc\obj\Debug\net6.0-windows\ref\2ITCProc.dll
