@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matav\\source\\repos\\2ITAProc\\2ITAProc\\2ITCProc.csproj": {}
+    "C:\\Users\\Matav\\source\\repos\\2ITCPVA23\\2ITAProc\\2ITAProc\\2ITCProc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matav\\source\\repos\\2ITAProc\\2ITAProc\\2ITCProc.csproj": {
+    "C:\\Users\\Matav\\source\\repos\\2ITCPVA23\\2ITAProc\\2ITAProc\\2ITCProc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITAProc\\2ITAProc\\2ITCProc.csproj",
+        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITCPVA23\\2ITAProc\\2ITAProc\\2ITCProc.csproj",
         "projectName": "2ITCProc",
-        "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITAProc\\2ITAProc\\2ITCProc.csproj",
+        "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITCPVA23\\2ITAProc\\2ITAProc\\2ITCProc.csproj",
         "packagesPath": "C:\\Users\\Matav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITAProc\\2ITAProc\\obj\\",
+        "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITCPVA23\\2ITAProc\\2ITAProc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matav\\AppData\\Roaming\\NuGet\\NuGet.Config",

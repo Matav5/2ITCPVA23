@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\bin\Debug\net6.0-windows\2ITCGalerie.exe
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\bin\Debug\net6.0-windows\2ITCGalerie.deps.json
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\bin\Debug\net6.0-windows\2ITCGalerie.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\bin\Debug\net6.0-windows\2ITCGalerie.dll
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\bin\Debug\net6.0-windows\2ITCGalerie.pdb
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\_2ITCGalerie.Form1.resources
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.dll
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\refint\2ITCGalerie.dll
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.pdb
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\2ITCGalerie.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITCGalerie\2ITCGalerie\obj\Debug\net6.0-windows\ref\2ITCGalerie.dll
