@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\bin\Debug\net6.0-windows\2ITCPuntickovac.exe
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\bin\Debug\net6.0-windows\2ITCPuntickovac.deps.json
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\bin\Debug\net6.0-windows\2ITCPuntickovac.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\bin\Debug\net6.0-windows\2ITCPuntickovac.dll
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\bin\Debug\net6.0-windows\2ITCPuntickovac.pdb
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\_2ITCPuntickovac.Form1.resources
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.dll
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\refint\2ITCPuntickovac.dll
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.pdb
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\2ITCPuntickovac.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITCPuntickovac\2ITCPuntickovac\obj\Debug\net6.0-windows\ref\2ITCPuntickovac.dll

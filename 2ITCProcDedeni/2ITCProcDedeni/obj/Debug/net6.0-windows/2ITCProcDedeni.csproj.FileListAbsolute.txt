@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\bin\Debug\net6.0-windows\2ITCProcDedeni.exe
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\bin\Debug\net6.0-windows\2ITCProcDedeni.deps.json
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\bin\Debug\net6.0-windows\2ITCProcDedeni.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\bin\Debug\net6.0-windows\2ITCProcDedeni.dll
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\bin\Debug\net6.0-windows\2ITCProcDedeni.pdb
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\_2ITCProcDedeni.Form1.resources
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.dll
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\refint\2ITCProcDedeni.dll
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.pdb
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\2ITCProcDedeni.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITCProcDedeni\2ITCProcDedeni\obj\Debug\net6.0-windows\ref\2ITCProcDedeni.dll

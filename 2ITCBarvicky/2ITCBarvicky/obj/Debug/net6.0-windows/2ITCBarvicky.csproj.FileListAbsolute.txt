@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\bin\Debug\net6.0-windows\2ITCBarvicky.exe
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\bin\Debug\net6.0-windows\2ITCBarvicky.deps.json
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\bin\Debug\net6.0-windows\2ITCBarvicky.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\bin\Debug\net6.0-windows\2ITCBarvicky.dll
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\bin\Debug\net6.0-windows\2ITCBarvicky.pdb
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\_2ITCBarvicky.Form1.resources
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.dll
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\refint\2ITCBarvicky.dll
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.pdb
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\2ITCBarvicky.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITCBarvicky\2ITCBarvicky\obj\Debug\net6.0-windows\ref\2ITCBarvicky.dll

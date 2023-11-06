@@ -1,0 +1,11 @@
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\bin\Debug\2ITCSpiraly.exe.config
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\bin\Debug\2ITCSpiraly.exe
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\bin\Debug\2ITCSpiraly.pdb
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\2ITCSpiraly.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\2ITCSpiraly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\_2ITCSpiraly.Form1.resources
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\_2ITCSpiraly.Properties.Resources.resources
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\2ITCSpiraly.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\2ITCSpiraly.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\2ITCSpiraly.exe
+C:\Users\Matav\source\repos\2ITCSpiraly\2ITCSpiraly\obj\Debug\2ITCSpiraly.pdb

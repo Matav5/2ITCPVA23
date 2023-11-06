@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\bin\Debug\net6.0-windows\2ITCPismenkovaHra.exe
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\bin\Debug\net6.0-windows\2ITCPismenkovaHra.deps.json
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\bin\Debug\net6.0-windows\2ITCPismenkovaHra.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\bin\Debug\net6.0-windows\2ITCPismenkovaHra.dll
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\bin\Debug\net6.0-windows\2ITCPismenkovaHra.pdb
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\_2ITCPismenkovaHra.Form1.resources
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.dll
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\refint\2ITCPismenkovaHra.dll
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.pdb
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\2ITCPismenkovaHra.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITCPismenkovaHra\2ITCPismenkovaHra\obj\Debug\net6.0-windows\ref\2ITCPismenkovaHra.dll
