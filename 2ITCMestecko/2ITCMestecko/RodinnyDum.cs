@@ -11,6 +11,7 @@ namespace _2ITCMestecko
         bool sviti = true;
         public RodinnyDum(string nazev) : base(nazev)
         {
+            
         }
         protected override void NactiObrazek()
         {

@@ -7,6 +7,9 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="MiziciBudova.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Update="RodinnyDum.cs">
       <SubType>Component</SubType>
     </Compile>

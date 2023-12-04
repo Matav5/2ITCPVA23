@@ -37,4 +37,11 @@ namespace _2ITCMestecko
             ReagujNaKlik(MouseButtons.Left);
         }
     }
+
+    enum TypBudovy
+    {
+        RodinnyDum,
+        MiziciBudova,
+        BudovaSNohama
+    }
 }

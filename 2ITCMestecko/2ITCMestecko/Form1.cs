@@ -5,7 +5,12 @@ namespace _2ITCMestecko
         public Form1()
         {
             InitializeComponent();
-        }
+            TypBudovy[] moznosti = Enum.GetValues<TypBudovy>();
+            foreach (TypBudovy moznost in moznosti)
+            {
+                comboBox1.Items.Add(moznost);
+            }
+        }   
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -15,9 +20,27 @@ namespace _2ITCMestecko
 
         private void panel1_MouseClick(object sender, MouseEventArgs e)
         {
-            RodinnyDum rodinnyDum = new RodinnyDum("Hurdùv dùm");
-            rodinnyDum.Location = e.Location;
-            panel1.Controls.Add(rodinnyDum);
+            VytvorBudovu(e.Location);
+        }
+
+        private void VytvorBudovu(Point pozice)
+        {
+            TypBudovy typBudovy = (TypBudovy) comboBox1.SelectedItem;
+            Budova budova = null;
+            switch (typBudovy)
+            {
+                case TypBudovy.RodinnyDum:
+                    budova = new RodinnyDum("U Hajlomanù");
+                    break;
+                case TypBudovy.MiziciBudova:
+                    budova = new MiziciBudova("U Stroskotalù");
+                    break;
+                case TypBudovy.BudovaSNohama:
+                    //TODO BudovaSNohama
+                    break;
+            }
+            budova.Location = pozice;
+            panel1.Controls.Add(budova);
         }
 
         private void button2_Click(object sender, EventArgs e)
