@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\bin\Debug\net6.0-windows\2ITCGameOfLife.exe
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\bin\Debug\net6.0-windows\2ITCGameOfLife.deps.json
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\bin\Debug\net6.0-windows\2ITCGameOfLife.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\bin\Debug\net6.0-windows\2ITCGameOfLife.dll
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\bin\Debug\net6.0-windows\2ITCGameOfLife.pdb
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\_2ITCGameOfLife.Form1.resources
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.dll
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\refint\2ITCGameOfLife.dll
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.pdb
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\2ITCGameOfLife.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITCGameOfLife\2ITCGameOfLife\obj\Debug\net6.0-windows\ref\2ITCGameOfLife.dll
